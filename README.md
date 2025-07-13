@@ -13,7 +13,7 @@ This project presents an exploratory data analysis (EDA) of a comprehensive sale
 
 ### Monthly Revenue Trend
 
-![Monthly revenue trend](/PROJECT_/images/Monthly%20Revenue%20Trend%20\(Combined%20Across%20Years.png)
+![Monthly revenue trend](/images/Monthly%20Revenue%20Trend%20\(Combined%20Across%20Years.png)
 
 
 - Revenue peaks in April and September suggesting seasonal buying patterns
@@ -22,7 +22,7 @@ This project presents an exploratory data analysis (EDA) of a comprehensive sale
 
 ### Top 10 Products by Revenue
 
-![Top 10 Products by Revenue](/PROJECT_/images/Top%2010%20Products%20by%20Revenue.png)
+![Top 10 Products by Revenue](/images/Top%2010%20Products%20by%20Revenue.png)
 
 
 - Product 26 and Product 25 contribute the most to overall revenue
@@ -31,7 +31,7 @@ This project presents an exploratory data analysis (EDA) of a comprehensive sale
 
 ### Revenue by Sales Channel
 
-![Revenue by Sales Channel](/PROJECT_/images/Revenue%20Distribution%20by%20Sales%20Channel.png)
+![Revenue by Sales Channel](/images/Revenue%20Distribution%20by%20Sales%20Channel.png)
 
 
 - Wholesale generates the highest share of revenue followed by Distributor
@@ -40,7 +40,7 @@ This project presents an exploratory data analysis (EDA) of a comprehensive sale
 
 ### Unit Price Distribution per Product
 
-![Unit Price Distribution per Product](/PROJECT_/images/Unit%20Price%20Distribution%20per%20Product.png)
+![Unit Price Distribution per Product](/images/Unit%20Price%20Distribution%20per%20Product.png)
 
 - Several products show wide unit price ranges indicating variable pricing
 - Some products have outliers suggesting premium variants or promotions
@@ -48,8 +48,8 @@ This project presents an exploratory data analysis (EDA) of a comprehensive sale
 
 ### Top States by Revenue and Order Count
 
-![Top States by Revenue](/PROJECT_/images/Top%2010%20States%20by%20Revenue.png)
-![Top States Order Count](/PROJECT_/images/Top%2010%20States%20by%20Order%20Count.png)
+![Top States by Revenue](/images/Top%2010%20States%20by%20Revenue.png)
+![Top States Order Count](/images/Top%2010%20States%20by%20Order%20Count.png)
 
 
 - California leads by both revenue and number of orders
@@ -58,7 +58,7 @@ This project presents an exploratory data analysis (EDA) of a comprehensive sale
 
 ### Average Profit Margin by Sales Channel
 
-![Average Profit Margin by Sales Channel](/PROJECT_/images/Average%20Profit%20Margin%20by%20Sales%20Channel.png)
+![Average Profit Margin by Sales Channel](/images/Average%20Profit%20Margin%20by%20Sales%20Channel.png)
 
 
 - All channels have similar average profit margins around 0.37 to 0.38
@@ -67,7 +67,7 @@ This project presents an exploratory data analysis (EDA) of a comprehensive sale
 
 ### Customer Segmentation: Revenue vs Profit Margin
 
-![Customer Segmentation: Revenue vs Profit Margin](/PROJECT_/images/Customer%20Segmentation%20Revenue%20&%20Profit%20Margin.png)
+![Customer Segmentation: Revenue vs Profit Margin](/images/Customer%20Segmentation%20Revenue%20&%20Profit%20Margin.png)
 
 
 - High revenue customers are not always high in profit margin
@@ -76,7 +76,7 @@ This project presents an exploratory data analysis (EDA) of a comprehensive sale
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](/PROJECT_//images/Correlation%20Heatmap.png)
+![Correlation Heatmap](/images/Correlation%20Heatmap.png)
 
 
 - Revenue is highly correlated with unit price and total cost
