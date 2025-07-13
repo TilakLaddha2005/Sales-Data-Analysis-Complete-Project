@@ -95,7 +95,7 @@ This project presents an exploratory data analysis (EDA) of a comprehensive sale
 
 ## Executive Overview and Trends Dashboard
 
-![Executive Overview and Trends](images/Executive Overview.png)
+![Executive Overview and Trends](/images/Executive%20Overview.png)
 
 ### Insights
 
@@ -109,7 +109,7 @@ This project presents an exploratory data analysis (EDA) of a comprehensive sale
 
 ## Product and Channel Performance Dashboard
 
-![Product and Channel Performance](images/Product & Channel.png)
+![Product and Channel Performance](/images/Product%20&%20Channel.png)
 
 ### Insights
 
@@ -124,7 +124,7 @@ This project presents an exploratory data analysis (EDA) of a comprehensive sale
 
 ## Geography and Customer Insights Dashboard
 
-![Geographic and Customer Insights](images/Geography & Customers.png)
+![Geographic and Customer Insights](/images/Geography%20&%20Customers.png)
 
 ### Insights
 
